@@ -1,0 +1,127 @@
+date,item_name,category,quantity,unit_price
+2026-02-16,Roasted Chicken,Main Course,12,8.50
+2026-02-16,Sarma,Main Course,8,7.00
+2026-02-16,Cevapi,Main Course,15,6.50
+2026-02-16,Bao Buns,Fusion,5,5.00
+2026-02-16,Caesar Salad,Salad,4,4.50
+2026-02-16,Shopska Salad,Salad,7,4.00
+2026-02-16,Baklava,Dessert,6,3.50
+2026-02-16,Turkish Coffee,Beverage,20,1.50
+2026-02-16,Rakija,Beverage,10,3.00
+2026-02-17,Roasted Chicken,Main Course,14,8.50
+2026-02-17,Sarma,Main Course,10,7.00
+2026-02-17,Cevapi,Main Course,18,6.50
+2026-02-17,Bao Buns,Fusion,7,5.00
+2026-02-17,Caesar Salad,Salad,3,4.50
+2026-02-17,Shopska Salad,Salad,9,4.00
+2026-02-17,Baklava,Dessert,8,3.50
+2026-02-17,Turkish Coffee,Beverage,25,1.50
+2026-02-17,Rakija,Beverage,14,3.00
+2026-02-18,Roasted Chicken,Main Course,10,8.50
+2026-02-18,Sarma,Main Course,6,7.00
+2026-02-18,Cevapi,Main Course,12,6.50
+2026-02-18,Bao Buns,Fusion,4,5.00
+2026-02-18,Caesar Salad,Salad,5,4.50
+2026-02-18,Shopska Salad,Salad,6,4.00
+2026-02-18,Baklava,Dessert,5,3.50
+2026-02-18,Turkish Coffee,Beverage,18,1.50
+2026-02-18,Rakija,Beverage,8,3.00
+2026-02-19,Roasted Chicken,Main Course,11,8.50
+2026-02-19,Sarma,Main Course,7,7.00
+2026-02-19,Cevapi,Main Course,14,6.50
+2026-02-19,Bao Buns,Fusion,6,5.00
+2026-02-19,Caesar Salad,Salad,4,4.50
+2026-02-19,Shopska Salad,Salad,8,4.00
+2026-02-19,Baklava,Dessert,7,3.50
+2026-02-19,Turkish Coffee,Beverage,22,1.50
+2026-02-19,Rakija,Beverage,11,3.00
+2026-02-20,Roasted Chicken,Main Course,16,8.50
+2026-02-20,Sarma,Main Course,12,7.00
+2026-02-20,Cevapi,Main Course,20,6.50
+2026-02-20,Bao Buns,Fusion,9,5.00
+2026-02-20,Caesar Salad,Salad,3,4.50
+2026-02-20,Shopska Salad,Salad,10,4.00
+2026-02-20,Baklava,Dessert,9,3.50
+2026-02-20,Turkish Coffee,Beverage,28,1.50
+2026-02-20,Rakija,Beverage,15,3.00
+2026-02-21,Roasted Chicken,Main Course,20,8.50
+2026-02-21,Sarma,Main Course,18,7.00
+2026-02-21,Cevapi,Main Course,25,6.50
+2026-02-21,Bao Buns,Fusion,12,5.00
+2026-02-21,Caesar Salad,Salad,5,4.50
+2026-02-21,Shopska Salad,Salad,14,4.00
+2026-02-21,Baklava,Dessert,11,3.50
+2026-02-21,Turkish Coffee,Beverage,35,1.50
+2026-02-21,Rakija,Beverage,20,3.00
+2026-02-22,Roasted Chicken,Main Course,22,8.50
+2026-02-22,Sarma,Main Course,20,7.00
+2026-02-22,Cevapi,Main Course,28,6.50
+2026-02-22,Bao Buns,Fusion,14,5.00
+2026-02-22,Caesar Salad,Salad,6,4.50
+2026-02-22,Shopska Salad,Salad,16,4.00
+2026-02-22,Baklava,Dessert,13,3.50
+2026-02-22,Turkish Coffee,Beverage,38,1.50
+2026-02-22,Rakija,Beverage,22,3.00
+2026-02-09,Roasted Chicken,Main Course,10,8.50
+2026-02-09,Sarma,Main Course,5,7.00
+2026-02-09,Cevapi,Main Course,12,6.50
+2026-02-09,Bao Buns,Fusion,3,5.00
+2026-02-09,Caesar Salad,Salad,5,4.50
+2026-02-09,Shopska Salad,Salad,6,4.00
+2026-02-09,Baklava,Dessert,4,3.50
+2026-02-09,Turkish Coffee,Beverage,15,1.50
+2026-02-09,Rakija,Beverage,7,3.00
+2026-02-10,Roasted Chicken,Main Course,12,8.50
+2026-02-10,Sarma,Main Course,7,7.00
+2026-02-10,Cevapi,Main Course,14,6.50
+2026-02-10,Bao Buns,Fusion,4,5.00
+2026-02-10,Caesar Salad,Salad,4,4.50
+2026-02-10,Shopska Salad,Salad,7,4.00
+2026-02-10,Baklava,Dessert,5,3.50
+2026-02-10,Turkish Coffee,Beverage,18,1.50
+2026-02-10,Rakija,Beverage,9,3.00
+2026-02-11,Roasted Chicken,Main Course,8,8.50
+2026-02-11,Sarma,Main Course,5,7.00
+2026-02-11,Cevapi,Main Course,10,6.50
+2026-02-11,Bao Buns,Fusion,3,5.00
+2026-02-11,Caesar Salad,Salad,3,4.50
+2026-02-11,Shopska Salad,Salad,5,4.00
+2026-02-11,Baklava,Dessert,4,3.50
+2026-02-11,Turkish Coffee,Beverage,14,1.50
+2026-02-11,Rakija,Beverage,6,3.00
+2026-02-12,Roasted Chicken,Main Course,9,8.50
+2026-02-12,Sarma,Main Course,6,7.00
+2026-02-12,Cevapi,Main Course,11,6.50
+2026-02-12,Bao Buns,Fusion,4,5.00
+2026-02-12,Caesar Salad,Salad,4,4.50
+2026-02-12,Shopska Salad,Salad,6,4.00
+2026-02-12,Baklava,Dessert,5,3.50
+2026-02-12,Turkish Coffee,Beverage,16,1.50
+2026-02-12,Rakija,Beverage,8,3.00
+2026-02-13,Roasted Chicken,Main Course,14,8.50
+2026-02-13,Sarma,Main Course,10,7.00
+2026-02-13,Cevapi,Main Course,17,6.50
+2026-02-13,Bao Buns,Fusion,7,5.00
+2026-02-13,Caesar Salad,Salad,4,4.50
+2026-02-13,Shopska Salad,Salad,9,4.00
+2026-02-13,Baklava,Dessert,8,3.50
+2026-02-13,Turkish Coffee,Beverage,24,1.50
+2026-02-13,Rakija,Beverage,12,3.00
+2026-02-14,Roasted Chicken,Main Course,18,8.50
+2026-02-14,Sarma,Main Course,15,7.00
+2026-02-14,Cevapi,Main Course,22,6.50
+2026-02-14,Bao Buns,Fusion,10,5.00
+2026-02-14,Caesar Salad,Salad,5,4.50
+2026-02-14,Shopska Salad,Salad,12,4.00
+2026-02-14,Baklava,Dessert,10,3.50
+2026-02-14,Turkish Coffee,Beverage,30,1.50
+2026-02-14,Rakija,Beverage,16,3.00
+2026-02-15,Roasted Chicken,Main Course,19,8.50
+2026-02-15,Sarma,Main Course,16,7.00
+2026-02-15,Cevapi,Main Course,24,6.50
+2026-02-15,Bao Buns,Fusion,11,5.00
+2026-02-15,Caesar Salad,Salad,6,4.50
+2026-02-15,Shopska Salad,Salad,13,4.00
+2026-02-15,Baklava,Dessert,11,3.50
+2026-02-15,Turkish Coffee,Beverage,32,1.50
+2026-02-15,Rakija,Beverage,18,3.00
